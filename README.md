@@ -8,6 +8,15 @@ This currently includes details for the [original bookshelf speakers](https://si
 
 This is a work in progress, bear with me as I build the speakers and add the components.
 
+### A few notes on the designs
+
+- Designed for 1/2" material. Using the 1/2" plans in all cases.
+- Uses miter joints at the box corners, so can use already faced plywood.
+- Uses painted MDF for the baffle. Could use faced plywood but the fillet on the outside edges would need to be removed.
+- Does not use rabbet for back. Seems an overly complicated addition.
+
+If you are using something else, it should be easily adapted.
+
 ## Bookshelf TM
 
 No build files available.
@@ -32,7 +41,10 @@ The cabinet design was reproduced from Paul's SketchUp screen capture into FreeC
 
 My crossover PCB is for the HiVi T20 tweeter. You can use the same PCB, just substitute the different value components.
 
-## Center
+## Center MMTM
+
+![Cabinet Drawing](/center/assets/center-drawing.png?raw=true)
+
 
 Next to be built!
 
