@@ -43,7 +43,7 @@ My crossover PCB is for the HiVi T20 tweeter. You can use the same PCB, just sub
 
 ## Center MMTM
 
-![Cabinet Drawing](/center/assets/center-drawing.png?raw=true)
+![Cabinet Drawing](/center/assets/cabinet-drawing.png?raw=true)
 
 
 Next to be built!
