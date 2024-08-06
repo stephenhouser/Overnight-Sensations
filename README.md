@@ -1,6 +1,6 @@
 # Overnight Sensation Speakers
 
-![Overnight Sensations](bookshelf/assets/dekstop.jpg)
+![Overnight Sensations](blob/master/bookshelf/assets/desktop.jpg?raw=true)
 
 This repository contains my build plans for Paul Carmody's Overnight Sensations speakers. It is intended to compliment Paul's designs, plans, and notes with manufacturable components. That is herein lie full CNC-able and PCB-producable components.
 
@@ -18,7 +18,7 @@ NOTE: The version I have designed for uses the HiVi T20 tweeter and 1/2" thick w
 
 The cabinet design was reproduced from Paul's SketchUp screen capture into FreeCAD. The full FreeCAD files are in the [floorstanding[(floorstading)] directory. Here's a snapshot of the major dimensions. Perhaps enough to build from.
 
-![Cabinet Drawing](floorstanding/assets/cabinet-drawing.png)
+![Cabinet Drawing](blob/master/floorstanding/assets/cabinet-drawing.png?raw=true)
 
 My crossover PCB is for the HiVi T20 tweeter. You can use the same PCB, just substitute the different value components.
 
