@@ -39,7 +39,9 @@ The cabinet design was reproduced from Paul's SketchUp screen capture into FreeC
 
 ![Cabinet Drawing](/floorstanding/assets/cabinet-drawing.png?raw=true)
 
-My crossover PCB is for the HiVi T20 tweeter. You can use the same PCB, just substitute the different value components.
+My crossover PCB is for the HiVi T20 tweeter. You can use the same PCB, just substitute the different value components. 
+
+**NOTE**: Don't use this crossover. I'm working on a new one with much thicker traces that will work across all the Overnight Sensations speakers.
 
 ## Center MMTM
 
