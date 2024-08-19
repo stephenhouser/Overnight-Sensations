@@ -101,3 +101,4 @@ I also calculated voltage drop and resistance of these traces, but not sure how 
 
 There may be extraneous generated files in the directories, like generated GCode, Gerber files, and such. These are outputs from processes and may not be suited to your manufacturing equipment. You should regenerate these for your own equipment, don't use mine. I warned you.
 
+The `Common-Crossover` directory is not used. This is a work-in-progress of designing a common crossover PCB that could work on all the Overnight Sensation speakers. It started when I thought my trace widths were not sufficient. **It is incomplete**.
