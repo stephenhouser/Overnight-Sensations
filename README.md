@@ -25,6 +25,8 @@ I built these a few years ago and did not document things very well, save for a 
 
 ## Floorstanding TMM
 
+![TMM Glamor Shot](/floorstanding/assets/tmm-glamor-shot.jpg?raw=true)
+
 Includes:
 
 - Cabinet Plans in FreeCAD
