@@ -1,6 +1,6 @@
 # Overnight Sensation Speakers
 
-![Overnight Sensations](bookshelf/assets/desktop.jpg?raw=true)
+![Overnight Sensations](bookshelf/assets/desktop.png?raw=true)
 
 This repository contains my build plans for [Paul Carmody](https://sites.google.com/site/undefinition/diy?authuser=0)'s **Overnight Sensations** speakers. It is intended to compliment Paul's designs, plans, and notes with manufacturable components. That is herein lie full CNC-able and PCB-producable components.
 
@@ -25,7 +25,7 @@ I built these a few years ago and did not document things very well, save for a 
 
 ## Floorstanding TMM
 
-![TMM Glamor Shot](/floorstanding/assets/tmm-glamor-shot.jpg?raw=true)
+![TMM Glamor Shot](/floorstanding/assets/tmm-glamor-shot.png?raw=true)
 
 Includes:
 
