@@ -1,0 +1,32 @@
+Speaker Height	965.2
+Speaker Width	152.4
+Speaker Depth	203.2
+Material Thickness	12.7
+
+
+Tweeter From Top	44.45
+Tweeter From Side	95.25	0.625 from side, not used
+
+Mid Speaker From Top	139.7
+Mid From Side	76.2	centered, not used
+
+Low From Top	279.4
+Low From Side	76.2	centered, not used
+
+Driver Dimensions	diameter
+HiVi B4N Diameter	116.586	https://www.parts-express.com/HiVi-B4N-4-Aluminum-Midbass-Round-Frame-297-429?quantity=1
+HiVi B4N Cutout Diameter	92.964
+HiVi B4N Depth	72.39
+HiVi B4N Recess	3.175
+
+HiVi T20 Diameter	50.8	https://www.parts-express.com/HiVi-T20-8-3-4-20mm-Textile-Dome-Tweeter-8-Ohm-297-464?quantity=1
+HiVi T20 Cutout Diameter	35.179
+HiVi T20 Depth	12.7
+HiVi T20 Recess	3.175
+
+Port From Bottom	127
+Port Diameter	53.975
+Port Cutout	57.15
+Port Lentgh	76.2
+Port Flange Diameter	82.55
+Port Recess	3.175
